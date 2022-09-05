@@ -1,0 +1,18 @@
+#vertline {
+	width: 3px;
+	height: 40px;
+	background: #c63e21;
+}
+
+.route-header {
+  display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.route-header > img {
+	display: block;
+	width: 40px;
+	height: 40px;
+}
